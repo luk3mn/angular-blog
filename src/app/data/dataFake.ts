@@ -7,9 +7,20 @@ export const dataFake = [
     },
     {
         "id":"2",
-        "photo":"bbb",
-        "title":"New content",
+        "title":"Naruto War",
         "description": "Hello",
-        "photoCover":""
+        "photoCover":"https://i.pinimg.com/736x/17/98/36/179836673f2427f398ae72bcadcac8e5.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Sasuke returns",
+        "description": "Hello",
+        "photoCover":"https://criticalhits.com.br/wp-content/uploads/2022/10/sasuke-invasao-5-kage.jpg"
+    },
+    {
+        "id":"4",
+        "title":"Sakura Badass",
+        "description": "Hello",
+        "photoCover":"https://s.aficionados.com.br/imagens/saiba-tudo-sobre-sakura-haruno_f.jpg"
     }
 ]
